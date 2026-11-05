@@ -12,6 +12,8 @@
 
 Основная идея проекта — пройти весь путь от исходных данных до готовой аналитики, не ограничиваясь только построением графиков.
 
+### Дашборд проекта
+
 <img width="1280" height="723" alt="image" src="https://github.com/user-attachments/assets/c4c41455-adeb-4ed8-b124-d83d7ebca9c3" />
 
 
@@ -108,10 +110,6 @@ ON CONFLICT (message_id) DO NOTHING
 - частоту отдельных словоформ;
 - динамику употребления по дням;
 - изменение активности участников во времени.
-
-### Дашборд проекта
-
-![Telegram Chat Analytics Dashboard](screenshots/dashboard.png)
 
 ## Результаты обработки
 
